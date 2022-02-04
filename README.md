@@ -1,4 +1,4 @@
-### Hey, I'm Florian - aka [K1ingGrim][website]
+### Hey, I'm Florian - aka [K1ngGrim][website]
  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css"> 
 
 ## I'm a Developer and Student!!
