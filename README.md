@@ -3,7 +3,7 @@
 
 ## I'm a Developer and Student!!
 
-- 🔭 I'm currently studying at the University of Applied 
+- 🔭 I'm currently studying at the University of Applied Sciences Karlsruhe
 - 🌱 I’m currently learning something
 - 🥅 My Goal 2022: Learn Angular Typescript and .Net Framework
 
