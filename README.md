@@ -5,7 +5,6 @@
 
 - 🔭 I'm currently studying at the University of Applied Sciences Karlsruhe
 - 🌱 I’m currently learning something
-- 🥅 My Goal 2022: Learn Angular Typescript and .Net Framework
 
 ### Connect with me:
 [<img align="left" alt="Instagram" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg"/>][instagram]
