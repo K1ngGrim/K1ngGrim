@@ -11,7 +11,7 @@
 [<img align="left" alt="Instagram" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg"/>][instagram]
 <br/>
 
-[website]: https://www.florians-krasse-abenteuer.de/
+[comment]: # ([website]: https://www.florians-krasse-abenteuer.de/)
 [instagram]: https://www.instagram.com/florii.ksr/
 
 ### Tools:
